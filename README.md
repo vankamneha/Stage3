@@ -1,4 +1,4 @@
 # Stage3
-1.Spring Rest Casestudy
-2.Spring Rest Handson
-3.React Handson
+Spring Rest Casestudy
+Spring Rest Handson
+React Handson
