@@ -3,3 +3,4 @@ BootStrap Handson,
 Spring Rest Casestudy,
 Spring Rest Handson,
 React Handson,
+Jquery Handson
